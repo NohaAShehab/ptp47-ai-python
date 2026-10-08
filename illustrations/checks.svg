@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="250" viewBox="0 0 920 250" role="img">
+  <title>Three checks that return False, and the reason for each</title>
+  <rect width="920" height="250" rx="18" fill="#FFFDF8"/>
+  <rect x="36" y="24" width="250" height="200" rx="16" fill="white" stroke="#0F1724" stroke-width="2"/>
+<rect x="36" y="24" width="250" height="12" rx="8" fill="#B83232"/>
+<text x="161.0" y="72.0" fill="#0F1724" font-size="28" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">"10 "</text>
+<text x="161.0" y="112.0" fill="#1F3A68" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">isdigit()</text>
+<rect x="114.0" y="136.0" width="81.6" height="32" rx="16.0" fill="#B83232" stroke="#0F1724" stroke-width="1.8"/><text x="154.8" y="152.0" fill="white" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">False</text>
+<text x="161.0" y="196.0" fill="#5C6570" font-size="13" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">a space is not a digit</text>
+<rect x="336" y="24" width="250" height="200" rx="16" fill="white" stroke="#0F1724" stroke-width="2"/>
+<rect x="336" y="24" width="250" height="12" rx="8" fill="#B83232"/>
+<text x="461.0" y="72.0" fill="#0F1724" font-size="28" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">"10 "</text>
+<text x="461.0" y="112.0" fill="#1F3A68" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">isalnum()</text>
+<rect x="414.0" y="136.0" width="81.6" height="32" rx="16.0" fill="#B83232" stroke="#0F1724" stroke-width="1.8"/><text x="454.8" y="152.0" fill="white" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">False</text>
+<text x="461.0" y="196.0" fill="#5C6570" font-size="13" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">a space is not a letter or digit</text>
+<rect x="636" y="24" width="250" height="200" rx="16" fill="white" stroke="#0F1724" stroke-width="2"/>
+<rect x="636" y="24" width="250" height="12" rx="8" fill="#B83232"/>
+<text x="761.0" y="72.0" fill="#0F1724" font-size="28" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">"noha"</text>
+<text x="761.0" y="112.0" fill="#1F3A68" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">istitle()</text>
+<rect x="714.0" y="136.0" width="81.6" height="32" rx="16.0" fill="#B83232" stroke="#0F1724" stroke-width="1.8"/><text x="754.8" y="152.0" fill="white" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">False</text>
+<text x="761.0" y="196.0" fill="#5C6570" font-size="13" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">title case needs a capital</text>
+</svg>

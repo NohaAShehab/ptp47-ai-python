@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="320" viewBox="0 0 920 320" role="img">
+  <title>Three ways to fill a sentence template: empty braces, numbers, and names</title>
+  <rect width="920" height="320" rx="18" fill="#FFFDF8"/>
+  <rect x="20" y="16" width="880" height="90" rx="14" fill="#E3EEFB"/>
+<text x="40.0" y="38.0" fill="#2468B8" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="start" dominant-baseline="central">.format("python", "Egypt")</text>
+<text x="40.0" y="74.0" fill="#0F1724" font-size="16" font-weight="600" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="start" dominant-baseline="central">We love </text>
+<rect x="119.4" y="60.0" width="42.4" height="28" rx="7" fill="#2468B8"/>
+<text x="140.6" y="74.0" fill="white" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">{}</text>
+<text x="175.8" y="74.0" fill="#0F1724" font-size="16" font-weight="600" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="start" dominant-baseline="central">very much. we lives in </text>
+<rect x="403.9" y="60.0" width="42.4" height="28" rx="7" fill="#17885B"/>
+<text x="425.1" y="74.0" fill="white" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">{}</text>
+<text x="620.0" y="38.0" fill="#5C6570" font-size="13" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">first value, then second value</text>
+<rect x="20" y="118" width="880" height="90" rx="14" fill="#FCE8E0"/>
+<text x="40.0" y="140.0" fill="#C9491A" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="start" dominant-baseline="central">.format("Egypt", "python")</text>
+<text x="40.0" y="176.0" fill="#0F1724" font-size="16" font-weight="600" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="start" dominant-baseline="central">We love </text>
+<rect x="119.4" y="162.0" width="53.6" height="28" rx="7" fill="#C9491A"/>
+<text x="146.2" y="176.0" fill="white" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">{0}</text>
+<text x="187.0" y="176.0" fill="#0F1724" font-size="16" font-weight="600" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="start" dominant-baseline="central">very much. we lives in </text>
+<rect x="415.1" y="162.0" width="53.6" height="28" rx="7" fill="#1F3A68"/>
+<text x="441.9" y="176.0" fill="white" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">{1}</text>
+<text x="620.0" y="140.0" fill="#5C6570" font-size="13" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">{0} is the first value you pass</text>
+<rect x="20" y="220" width="880" height="90" rx="14" fill="#F3EEF8"/>
+<text x="40.0" y="242.0" fill="#6B4C9A" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="start" dominant-baseline="central">format(lang="python", country="Egypt")</text>
+<text x="40.0" y="278.0" fill="#0F1724" font-size="16" font-weight="600" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="start" dominant-baseline="central">We love </text>
+<rect x="119.4" y="264.0" width="87.2" height="28" rx="7" fill="#6B4C9A"/>
+<text x="163.0" y="278.0" fill="white" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">{lang}</text>
+<text x="220.6" y="278.0" fill="#0F1724" font-size="16" font-weight="600" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="start" dominant-baseline="central">very much. we lives in </text>
+<rect x="448.7" y="264.0" width="120.8" height="28" rx="7" fill="#17885B"/>
+<text x="509.1" y="278.0" fill="white" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">{country}</text>
+<text x="620.0" y="242.0" fill="#5C6570" font-size="13" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">names need lang= and country=</text>
+</svg>

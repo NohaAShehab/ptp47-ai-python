@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="220" viewBox="0 0 920 220" role="img">
+  <title>An f-string pulling first_name and last_name into one sentence</title>
+  <rect width="920" height="220" rx="18" fill="#FFFDF8"/>
+  <rect x="28" y="36" width="250" height="64" rx="12" fill="#E3EEFB" stroke="#2468B8" stroke-width="2"/>
+<text x="153.0" y="56.0" fill="#2468B8" font-size="13" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">first_name</text>
+<text x="153.0" y="80.0" fill="#0F1724" font-size="20" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">noha</text>
+<rect x="28" y="116" width="250" height="64" rx="12" fill="#DFF3EA" stroke="#17885B" stroke-width="2"/>
+<text x="153.0" y="136.0" fill="#17885B" font-size="13" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">last_name</text>
+<text x="153.0" y="160.0" fill="#0F1724" font-size="20" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">Shehab</text>
+<line x1="300.0" y1="108.0" x2="378.0" y2="108.0" stroke="#0F1724" stroke-width="2.4"/><polygon points="390.0,108.0 378.0,102.0 378.0,114.0" fill="#0F1724"/>
+<rect x="400" y="70" width="490" height="76" rx="14" fill="#0F1724"/>
+<text x="645.0" y="108.0" fill="#FFD43B" font-size="22" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">My name is noha Shehab</text>
+<text x="460.0" y="36.0" fill="#6B4C9A" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="start" dominant-baseline="central">f"My name is {first_name} {last_name}"</text>
+</svg>

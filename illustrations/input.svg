@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="230" viewBox="0 0 920 230" role="img">
+  <title>An input prompt, with spaces around the word still counting toward len</title>
+  <rect width="920" height="230" rx="18" fill="#FFFDF8"/>
+  <rect x="48" y="28" width="824" height="176" rx="16" fill="#0F1724"/>
+<circle cx="78" cy="54" r="6" fill="#B83232"/>
+<circle cx="98" cy="54" r="6" fill="#FFD43B"/>
+<circle cx="118" cy="54" r="6" fill="#17885B"/>
+<text x="78.0" y="96.0" fill="#9DDBB8" font-size="18" font-weight="600" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="start" dominant-baseline="central">please leave your impression:</text>
+<text x="78.0" y="136.0" fill="#FFD43B" font-size="22" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="start" dominant-baseline="central">· · · hello · · ·</text>
+<text x="78.0" y="176.0" fill="#D5D0C6" font-size="15" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">len counts every character you typed, including the spaces</text>
+</svg>

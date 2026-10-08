@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="250" viewBox="0 0 920 250" role="img">
+  <title>noha plus Shehab becomes nohaShehab, and Hello times 3 repeats</title>
+  <rect width="920" height="250" rx="18" fill="#FFFDF8"/>
+  <text x="36.0" y="32.0" fill="#C9491A" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">+  joins, and does not add a space</text>
+<rect x="36.0" y="58.0" width="76.6" height="38" rx="19.0" fill="#2468B8" stroke="#0F1724" stroke-width="1.8"/><text x="74.3" y="77.0" fill="white" font-size="18" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">noha</text>
+<text x="140.6" y="76.0" fill="#0F1724" font-size="22" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">+</text>
+<rect x="160.6" y="58.0" width="99.0" height="38" rx="19.0" fill="#17885B" stroke="#0F1724" stroke-width="1.8"/><text x="210.1" y="77.0" fill="white" font-size="18" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">Shehab</text>
+<text x="287.6" y="76.0" fill="#0F1724" font-size="22" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">=</text>
+<rect x="307.6" y="58.0" width="143.6" height="38" rx="19.0" fill="#C9491A" stroke="#0F1724" stroke-width="1.8"/><text x="379.4" y="77.0" fill="white" font-size="18" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">nohaShehab</text>
+<text x="36.0" y="116.0" fill="#5C6570" font-size="15" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">no space is inserted, so the result is nohaShehab</text>
+<text x="36.0" y="150.0" fill="#6B4C9A" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">*  repeats the text</text>
+<rect x="36.0" y="176.0" width="87.8" height="38" rx="19.0" fill="#6B4C9A" stroke="#0F1724" stroke-width="1.8"/><text x="79.9" y="195.0" fill="white" font-size="18" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">Hello</text>
+<text x="157.8" y="194.0" fill="#0F1724" font-size="18" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">× 3</text>
+<rect x="187.8" y="176.0" width="199.4" height="38" rx="19.0" fill="#EDE4F7" stroke="#0F1724" stroke-width="1.8"/><text x="287.5" y="195.0" fill="#0F1724" font-size="18" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">HelloHelloHello</text>
+</svg>

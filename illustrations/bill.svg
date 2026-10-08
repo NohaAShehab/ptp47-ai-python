@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="300" viewBox="0 0 920 300" role="img">
+  <title>A bill shared between people, formatted with two decimals, and a bad number</title>
+  <rect width="920" height="300" rx="18" fill="#FFFDF8"/>
+  <polygon points="40,28 300,28 300,214 278,200 256,214 234,200 212,214 190,200 168,214 146,200 124,214 102,200 80,214 58,200 40,214" fill="#FFFEF8" stroke="#0F1724" stroke-width="2.4"/>
+<text x="170.0" y="58.0" fill="#5C6570" font-size="14" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">BILL</text>
+<text x="80.0" y="96.0" fill="#0F1724" font-size="16" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">total</text>
+<text x="80.0" y="126.0" fill="#0F1724" font-size="16" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">÷  people</text>
+<line x1="70" y1="146" x2="270" y2="146" stroke="#0F1724" stroke-width="1.4"/>
+<text x="80.0" y="172.0" fill="#0F1724" font-size="16" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">share</text>
+<rect x="146.0" y="156.0" width="112.6" height="28" rx="14.0" fill="#FFD43B" stroke="#0F1724" stroke-width="1.8"/><text x="202.3" y="170.0" fill="#0F1724" font-size="13" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">416.83 EGP</text>
+<text x="460.0" y="48.0" fill="#1F3A68" font-size="15" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">people</text>
+<circle cx="390" cy="92" r="16" fill="#2468B8" stroke="#0F1724" stroke-width="2"/>
+<path d="M 370 150 Q 390 112 410 150" fill="#2468B8" stroke="#0F1724" stroke-width="2"/>
+<circle cx="460" cy="92" r="16" fill="#C9491A" stroke="#0F1724" stroke-width="2"/>
+<path d="M 440 150 Q 460 112 480 150" fill="#C9491A" stroke="#0F1724" stroke-width="2"/>
+<circle cx="530" cy="92" r="16" fill="#17885B" stroke="#0F1724" stroke-width="2"/>
+<path d="M 510 150 Q 530 112 550 150" fill="#17885B" stroke="#0F1724" stroke-width="2"/>
+<text x="460.0" y="178.0" fill="#0F1724" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">bill / people</text>
+<rect x="560" y="36" width="328" height="160" rx="14" fill="#DFF3EA" stroke="#17885B" stroke-width="2"/>
+<text x="724.0" y="64.0" fill="#17885B" font-size="18" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">{share:,.2f}</text>
+<text x="580.0" y="100.0" fill="#0F1724" font-size="14" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">,    thousands separator</text>
+<text x="580.0" y="126.0" fill="#0F1724" font-size="14" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">.2f  two digits after the dot</text>
+<text x="580.0" y="152.0" fill="#0F1724" font-size="14" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">EGP  stays as text you wrote</text>
+<rect x="40" y="236" width="848" height="46" rx="12" fill="#FDECEC" stroke="#B83232" stroke-width="2"/>
+<text x="464.0" y="259.0" fill="#B83232" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">float("5..55")   cannot read two dots   →   ValueError</text>
+</svg>

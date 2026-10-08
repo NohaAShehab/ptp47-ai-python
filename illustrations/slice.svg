@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="360" viewBox="0 0 920 360" role="img">
+  <title>Reverse of the sentence, then every second character</title>
+  <rect width="920" height="360" rx="18" fill="#FFFDF8"/>
+  <text x="36.0" y="26.0" fill="#C9491A" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">[::-1]   walk backward. A space is a character, drawn here as ·</text>
+<rect x="53.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="69.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">w</text>
+<rect x="87.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="103.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">e</text>
+<rect x="121.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="137.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">l</text>
+<rect x="155.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="171.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">c</text>
+<rect x="189.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="205.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">o</text>
+<rect x="223.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="239.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">m</text>
+<rect x="257.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="273.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">e</text>
+<rect x="291.0" y="48.0" width="32" height="32" rx="7" fill="#F3EEE4" stroke="#C9C1B2" stroke-width="1.6"/>
+<text x="307.0" y="64.5" fill="#5C6570" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">·</text>
+<rect x="325.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="341.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">t</text>
+<rect x="359.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="375.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">o</text>
+<rect x="393.0" y="48.0" width="32" height="32" rx="7" fill="#F3EEE4" stroke="#C9C1B2" stroke-width="1.6"/>
+<text x="409.0" y="64.5" fill="#5C6570" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">·</text>
+<rect x="427.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="443.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">p</text>
+<rect x="461.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="477.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">y</text>
+<rect x="495.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="511.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">t</text>
+<rect x="529.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="545.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">h</text>
+<rect x="563.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="579.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">o</text>
+<rect x="597.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="613.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">n</text>
+<rect x="631.0" y="48.0" width="32" height="32" rx="7" fill="#F3EEE4" stroke="#C9C1B2" stroke-width="1.6"/>
+<text x="647.0" y="64.5" fill="#5C6570" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">·</text>
+<rect x="665.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="681.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">c</text>
+<rect x="699.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="715.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">o</text>
+<rect x="733.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="749.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">u</text>
+<rect x="767.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="783.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">r</text>
+<rect x="801.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="817.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">s</text>
+<rect x="835.0" y="48.0" width="32" height="32" rx="7" fill="#2468B8" stroke="#0F1724" stroke-width="1.6"/>
+<text x="851.0" y="64.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">e</text>
+<line x1="460.0" y1="84.0" x2="460.0" y2="114.0" stroke="#0F1724" stroke-width="2.4"/><polygon points="460.0,124.0 454.0,113.0 466.0,113.0" fill="#0F1724"/>
+<rect x="53.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="69.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">e</text>
+<rect x="87.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="103.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">s</text>
+<rect x="121.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="137.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">r</text>
+<rect x="155.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="171.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">u</text>
+<rect x="189.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="205.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">o</text>
+<rect x="223.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="239.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">c</text>
+<rect x="257.0" y="128.0" width="32" height="32" rx="7" fill="#F3EEE4" stroke="#C9C1B2" stroke-width="1.6"/>
+<text x="273.0" y="144.5" fill="#5C6570" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">·</text>
+<rect x="291.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="307.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">n</text>
+<rect x="325.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="341.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">o</text>
+<rect x="359.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="375.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">h</text>
+<rect x="393.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="409.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">t</text>
+<rect x="427.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="443.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">y</text>
+<rect x="461.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="477.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">p</text>
+<rect x="495.0" y="128.0" width="32" height="32" rx="7" fill="#F3EEE4" stroke="#C9C1B2" stroke-width="1.6"/>
+<text x="511.0" y="144.5" fill="#5C6570" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">·</text>
+<rect x="529.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="545.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">o</text>
+<rect x="563.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="579.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">t</text>
+<rect x="597.0" y="128.0" width="32" height="32" rx="7" fill="#F3EEE4" stroke="#C9C1B2" stroke-width="1.6"/>
+<text x="613.0" y="144.5" fill="#5C6570" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">·</text>
+<rect x="631.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="647.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">e</text>
+<rect x="665.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="681.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">m</text>
+<rect x="699.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="715.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">o</text>
+<rect x="733.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="749.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">c</text>
+<rect x="767.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="783.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">l</text>
+<rect x="801.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="817.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">e</text>
+<rect x="835.0" y="128.0" width="32" height="32" rx="7" fill="#C9491A" stroke="#0F1724" stroke-width="1.6"/>
+<text x="851.0" y="144.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">w</text>
+<text x="36.0" y="208.0" fill="#17885B" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">[::2]   pale letters are skipped</text>
+<rect x="53.0" y="230.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="69.0" y="246.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">w</text>
+<rect x="87.0" y="230.0" width="32" height="32" rx="7" fill="#E6E1D6" stroke="#D5D0C6" stroke-width="1.6"/>
+<text x="103.0" y="246.5" fill="#8D867C" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">e</text>
+<rect x="121.0" y="230.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="137.0" y="246.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">l</text>
+<rect x="155.0" y="230.0" width="32" height="32" rx="7" fill="#E6E1D6" stroke="#D5D0C6" stroke-width="1.6"/>
+<text x="171.0" y="246.5" fill="#8D867C" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">c</text>
+<rect x="189.0" y="230.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="205.0" y="246.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">o</text>
+<rect x="223.0" y="230.0" width="32" height="32" rx="7" fill="#E6E1D6" stroke="#D5D0C6" stroke-width="1.6"/>
+<text x="239.0" y="246.5" fill="#8D867C" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">m</text>
+<rect x="257.0" y="230.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="273.0" y="246.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">e</text>
+<rect x="291.0" y="230.0" width="32" height="32" rx="7" fill="#F3EEE4" stroke="#C9C1B2" stroke-width="1.6"/>
+<text x="307.0" y="246.5" fill="#5C6570" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">·</text>
+<rect x="325.0" y="230.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="341.0" y="246.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">t</text>
+<rect x="359.0" y="230.0" width="32" height="32" rx="7" fill="#E6E1D6" stroke="#D5D0C6" stroke-width="1.6"/>
+<text x="375.0" y="246.5" fill="#8D867C" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">o</text>
+<rect x="393.0" y="230.0" width="32" height="32" rx="7" fill="#F3EEE4" stroke="#C9C1B2" stroke-width="1.6"/>
+<text x="409.0" y="246.5" fill="#5C6570" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">·</text>
+<rect x="427.0" y="230.0" width="32" height="32" rx="7" fill="#E6E1D6" stroke="#D5D0C6" stroke-width="1.6"/>
+<text x="443.0" y="246.5" fill="#8D867C" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">p</text>
+<rect x="461.0" y="230.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="477.0" y="246.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">y</text>
+<rect x="495.0" y="230.0" width="32" height="32" rx="7" fill="#E6E1D6" stroke="#D5D0C6" stroke-width="1.6"/>
+<text x="511.0" y="246.5" fill="#8D867C" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">t</text>
+<rect x="529.0" y="230.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="545.0" y="246.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">h</text>
+<rect x="563.0" y="230.0" width="32" height="32" rx="7" fill="#E6E1D6" stroke="#D5D0C6" stroke-width="1.6"/>
+<text x="579.0" y="246.5" fill="#8D867C" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">o</text>
+<rect x="597.0" y="230.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="613.0" y="246.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">n</text>
+<rect x="631.0" y="230.0" width="32" height="32" rx="7" fill="#F3EEE4" stroke="#C9C1B2" stroke-width="1.6"/>
+<text x="647.0" y="246.5" fill="#5C6570" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">·</text>
+<rect x="665.0" y="230.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="681.0" y="246.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">c</text>
+<rect x="699.0" y="230.0" width="32" height="32" rx="7" fill="#E6E1D6" stroke="#D5D0C6" stroke-width="1.6"/>
+<text x="715.0" y="246.5" fill="#8D867C" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">o</text>
+<rect x="733.0" y="230.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="749.0" y="246.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">u</text>
+<rect x="767.0" y="230.0" width="32" height="32" rx="7" fill="#E6E1D6" stroke="#D5D0C6" stroke-width="1.6"/>
+<text x="783.0" y="246.5" fill="#8D867C" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">r</text>
+<rect x="801.0" y="230.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="817.0" y="246.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">s</text>
+<rect x="835.0" y="230.0" width="32" height="32" rx="7" fill="#E6E1D6" stroke="#D5D0C6" stroke-width="1.6"/>
+<text x="851.0" y="246.5" fill="#8D867C" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">e</text>
+<text x="36.0" y="324.0" fill="#5C6570" font-size="14" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">kept</text>
+<rect x="90.0" y="308.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="106.0" y="324.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">w</text>
+<rect x="124.0" y="308.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="140.0" y="324.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">l</text>
+<rect x="158.0" y="308.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="174.0" y="324.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">o</text>
+<rect x="192.0" y="308.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="208.0" y="324.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">e</text>
+<rect x="226.0" y="308.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="242.0" y="324.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">t</text>
+<rect x="260.0" y="308.0" width="32" height="32" rx="7" fill="#F3EEE4" stroke="#C9C1B2" stroke-width="1.6"/>
+<text x="276.0" y="324.5" fill="#5C6570" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">·</text>
+<rect x="294.0" y="308.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="310.0" y="324.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">y</text>
+<rect x="328.0" y="308.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="344.0" y="324.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">h</text>
+<rect x="362.0" y="308.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="378.0" y="324.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">n</text>
+<rect x="396.0" y="308.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="412.0" y="324.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">c</text>
+<rect x="430.0" y="308.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="446.0" y="324.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">u</text>
+<rect x="464.0" y="308.0" width="32" height="32" rx="7" fill="#17885B" stroke="#0F1724" stroke-width="1.6"/>
+<text x="480.0" y="324.5" fill="white" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">s</text>
+</svg>

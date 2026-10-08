@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="300" viewBox="0 0 920 300" role="img">
+  <title>Three ways to write a string: single quotes, double quotes, and triple quotes</title>
+  <rect width="920" height="300" rx="18" fill="#FFFDF8"/>
+  <rect x="28" y="24" width="276" height="180" rx="16" fill="#E3EEFB" stroke="#2468B8" stroke-width="2.5"/>
+<text x="166.0" y="52.0" fill="#2468B8" font-size="15" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">single quotes</text>
+<text x="166.0" y="118.0" fill="#0F1724" font-size="32" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">'Ali'</text>
+<rect x="322" y="24" width="276" height="180" rx="16" fill="#FCE8E0" stroke="#C9491A" stroke-width="2.5"/>
+<text x="460.0" y="52.0" fill="#C9491A" font-size="15" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">double quotes</text>
+<text x="460.0" y="118.0" fill="#0F1724" font-size="32" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">"Ali"</text>
+<rect x="616" y="24" width="276" height="180" rx="16" fill="#DFF3EA" stroke="#17885B" stroke-width="2.5"/>
+<text x="754.0" y="52.0" fill="#17885B" font-size="15" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">triple quotes</text>
+<text x="754.0" y="112.0" fill="#0F1724" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">'''My Name is Noha</text>
+<text x="754.0" y="146.0" fill="#0F1724" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">I love reading'''</text>
+<rect x="28" y="222" width="864" height="58" rx="12" fill="#FFF6D6" stroke="#A85F00" stroke-width="2"/>
+<text x="460.0" y="242.0" fill="#0F1724" font-size="15" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">Parentheses across lines glue the pieces. They do not add a space or a new line.</text>
+<text x="460.0" y="264.0" fill="#5C6570" font-size="14" font-weight="600" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" text-anchor="middle" dominant-baseline="central">("My name is Noha," "I love reading")   →   My name is Noha,I love reading</text>
+</svg>

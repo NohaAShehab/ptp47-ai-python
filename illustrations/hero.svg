@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="280" viewBox="0 0 920 280" role="img">
+  <title>The word string threaded as six letter beads, indexes 0 to 5</title>
+  <rect width="920" height="280" rx="18" fill="#FFFDF8"/>
+  <circle cx="860" cy="36" r="16" fill="#E3EEFB"/>
+<circle cx="828" cy="28" r="8" fill="#FCE8E0"/>
+<circle cx="48" cy="248" r="14" fill="#DFF3EA"/>
+<ellipse cx="52" cy="124" rx="22" ry="64" fill="#A33B14" stroke="#0F1724" stroke-width="2.4"/>
+<rect x="52" y="90" width="78" height="68" fill="#F6D3C6" stroke="#0F1724" stroke-width="2.4"/>
+<path d="M58 104 H124 M58 116 H124 M58 128 H124 M58 140 H124" stroke="#C9491A" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="130" cy="124" rx="22" ry="64" fill="#C9491A" stroke="#0F1724" stroke-width="2.4"/>
+<ellipse cx="130" cy="124" rx="8" ry="26" fill="#1F3A68" stroke="#0F1724" stroke-width="2"/>
+<path d="M96 168 C 78 196, 124 208, 146 186" fill="none" stroke="#E0A100" stroke-width="3" stroke-linecap="round"/>
+<line x1="152" y1="124" x2="790" y2="124" stroke="#E0A100" stroke-width="5" stroke-linecap="round"/>
+<rect x="188.0" y="89.0" width="70" height="70" rx="14" fill="#2468B8" stroke="#0F1724" stroke-width="2.2"/>
+<text x="223.0" y="125.0" fill="white" font-size="29" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">s</text>
+<text x="223.0" y="175.0" fill="#5C6570" font-size="14" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">0</text>
+<rect x="280.0" y="89.0" width="70" height="70" rx="14" fill="#C9491A" stroke="#0F1724" stroke-width="2.2"/>
+<text x="315.0" y="125.0" fill="white" font-size="29" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">t</text>
+<text x="315.0" y="175.0" fill="#5C6570" font-size="14" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">1</text>
+<rect x="372.0" y="89.0" width="70" height="70" rx="14" fill="#17885B" stroke="#0F1724" stroke-width="2.2"/>
+<text x="407.0" y="125.0" fill="white" font-size="29" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">r</text>
+<text x="407.0" y="175.0" fill="#5C6570" font-size="14" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">2</text>
+<rect x="464.0" y="89.0" width="70" height="70" rx="14" fill="#6B4C9A" stroke="#0F1724" stroke-width="2.2"/>
+<text x="499.0" y="125.0" fill="white" font-size="29" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">i</text>
+<text x="499.0" y="175.0" fill="#5C6570" font-size="14" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">3</text>
+<rect x="556.0" y="89.0" width="70" height="70" rx="14" fill="#A85F00" stroke="#0F1724" stroke-width="2.2"/>
+<text x="591.0" y="125.0" fill="white" font-size="29" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">n</text>
+<text x="591.0" y="175.0" fill="#5C6570" font-size="14" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">4</text>
+<rect x="648.0" y="89.0" width="70" height="70" rx="14" fill="#1F3A68" stroke="#0F1724" stroke-width="2.2"/>
+<text x="683.0" y="125.0" fill="white" font-size="29" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">g</text>
+<text x="683.0" y="175.0" fill="#5C6570" font-size="14" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">5</text>
+<polygon points="868,124 832,112 832,136" fill="#D5D8DE" stroke="#0F1724" stroke-width="2"/>
+<circle cx="812" cy="124" r="8" fill="#FFFDF8" stroke="#0F1724" stroke-width="2"/>
+<rect x="400.0" y="214.0" width="101.4" height="34" rx="17.0" fill="#FFD43B" stroke="#0F1724" stroke-width="1.8"/><text x="450.7" y="231.0" fill="#0F1724" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">len = 6</text>
+<text x="620.0" y="231.0" fill="#5C6570" font-size="15" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">indexes start at 0</text>
+</svg>
