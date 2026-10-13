@@ -1,0 +1,5 @@
+{'first_name': 'Menna', 'track': 'AI', 'salary': 200000, 'currency': 'KWD'}
+{'first_name': 'Menna', 'track': 'AI', 'salary': 200000, 'currency': 'KWD'}
+{'first_name': 'Menna', 'track': 'AI', 'salary': 200000, 'currency': 'KWD'}
+{'first_name': 'Menna', 'track': 'AI', 'salary': 200000, 'currency': 'KWD'}
+{"first_name": "Menna", "track": "AI", "salary": 200000, "currency": "KWD"}{"first_name": "Menna", "track": "AI", "salary": 200000, "currency": "KWD"}

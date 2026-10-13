@@ -1,0 +1,24 @@
+[
+    {
+        "first_name": "Menna",
+        "track": "AI",
+        "salary": 200000,
+        "currency": "KWD"
+    },
+    {
+        "first_name": "Ali",
+        "track": "AI",
+        "salary": 1000000
+    },
+    {
+        "first_name": "Ali",
+        "track": "AI",
+        "salary": 1000000
+    },
+    {
+        "first_name": "Ali",
+        "track": "AI",
+        "salary": 1000000,
+        "tax": null
+    }
+]
