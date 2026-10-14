@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="300" viewBox="0 0 920 300" role="img">
+<title>__salary is not found. The dictionary keeps _Employee__salary</title>
+<rect width="920" height="300" rx="18" fill="#FFFDF8"/>
+<circle cx="28" cy="28" r="8" fill="#E3EEFB"/>
+<circle cx="892" cy="40" r="12" fill="#FCE8E0"/>
+<circle cx="48" cy="272" r="7" fill="#DFF3EA"/>
+<rect x="36" y="48" width="360" height="190" rx="16" fill="#FDECEC" stroke="#B83232" stroke-width="2.4"/>
+<text x="216" y="86" fill="#B83232" font-size="18" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle">looking for</text>
+<text x="216" y="132" fill="#111111" font-size="28" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle">__salary</text>
+<text x="216" y="178" fill="#B83232" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle">not on the object</text>
+<line x1="410" y1="140" x2="468" y2="140" stroke="#1F3A68" stroke-width="3.2" stroke-linecap="round"/>
+<polygon points="482,140 468,132 468,148" fill="#1F3A68"/>
+<rect x="500" y="48" width="384" height="190" rx="16" fill="#E7ECF4" stroke="#1F3A68" stroke-width="2.4"/>
+<text x="692" y="86" fill="#1F3A68" font-size="18" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle">stored in __dict__ as</text>
+<text x="692" y="136" fill="#111111" font-size="22" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle">_Employee__salary</text>
+<text x="692" y="178" fill="#17885B" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle">renamed, not deleted</text>
+<text x="460" y="268" fill="#5C6570" font-size="14" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle">one underscore, the class name, then the original __salary</text>
+</svg>
