@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-label="The downloader reports size 500. Three slots hold the squares 9, 25, and 49.">
+  <defs>
+    <clipPath id="card"><rect width="960" height="300" rx="28"/></clipPath>
+    <filter id="shadow" x="-25%" y="-25%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#1E2A36" flood-opacity="0.14"/>
+    </filter>
+    <filter id="soft" x="-25%" y="-25%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1.2" flood-color="#1E2A36" flood-opacity="0.10"/>
+    </filter>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M1,1 L8,5 L1,9" fill="none" stroke="#8C7564" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="960" height="300" fill="#FBF7F1"/>
+    <rect width="88" height="300" fill="#24384A"/>
+    <rect x="88" width="4" height="300" fill="#E4B04A"/>
+    <circle cx="44" cy="138.0" r="30" fill="none" stroke="#E4B04A" stroke-width="1.25" opacity="0.85"/>
+    <text x="44" y="138.0" fill="#FFFBF6" font-size="28" font-weight="600" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif" dominant-baseline="central">02</text>
+    <text x="44" y="280" fill="#E4B04A" font-size="11" font-weight="600" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif" letter-spacing="1.6">LAB</text>
+    <text x="120" y="44" fill="#8C7564" font-size="12" font-weight="600" font-style="normal" text-anchor="start" font-family="Inter, DejaVu Sans, sans-serif" letter-spacing="1.7">A THREAD THAT KEEPS ITS ANSWER</text><rect x="120" y="72" width="230" height="130" rx="16" fill="#FFFFFF" stroke="#E6D5C3" stroke-width="1.5"/><rect x="120" y="72" width="230" height="40" rx="16" fill="#1F9A88"/><rect x="120" y="94" width="230" height="18" fill="#1F9A88"/><text x="136" y="98" fill="#FFFFFF" font-size="16" font-weight="600" font-style="normal" text-anchor="start" font-family="Inter, DejaVu Sans, sans-serif" dominant-baseline="central">Downloader</text><text x="136" y="140" fill="#1E2A36" font-size="15" font-weight="500" font-style="normal" text-anchor="start" font-family="Inter, DejaVu Sans, sans-serif">url = ai-47</text><text x="136" y="168" fill="#1E2A36" font-size="15" font-weight="500" font-style="normal" text-anchor="start" font-family="Inter, DejaVu Sans, sans-serif">run()</text><text x="136" y="196" fill="#1E2A36" font-size="15" font-weight="500" font-style="normal" text-anchor="start" font-family="Inter, DejaVu Sans, sans-serif">size</text><g>
+      <rect x="370" y="86" width="150" height="116" rx="26" fill="#24384A"/>
+      <text x="445.0" y="136.0" fill="#FFFBF6" font-size="42" font-weight="600" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif" dominant-baseline="central">500</text>
+      <text x="445.0" y="176" fill="#E4B04A" font-size="12" font-weight="600" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif" letter-spacing="1.5">SIZE</text>
+    </g><g>
+      <rect x="560" y="80" width="112" height="128" rx="18" fill="#FFFFFF" stroke="#E6D5C3" stroke-width="1.5"/>
+      <circle cx="616" cy="108" r="14" fill="#E36A55"/>
+      <text x="616" y="108" fill="#FFFFFF" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif" dominant-baseline="central">0</text>
+      <text x="616" y="168" fill="#1E2A36" font-size="34" font-weight="600" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif">9</text>
+    </g><g>
+      <rect x="680" y="80" width="112" height="128" rx="18" fill="#FFFFFF" stroke="#E6D5C3" stroke-width="1.5"/>
+      <circle cx="736" cy="108" r="14" fill="#1F9A88"/>
+      <text x="736" y="108" fill="#FFFFFF" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif" dominant-baseline="central">1</text>
+      <text x="736" y="168" fill="#1E2A36" font-size="34" font-weight="600" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif">25</text>
+    </g><g>
+      <rect x="800" y="80" width="112" height="128" rx="18" fill="#FFFFFF" stroke="#E6D5C3" stroke-width="1.5"/>
+      <circle cx="856" cy="108" r="14" fill="#E4B04A"/>
+      <text x="856" y="108" fill="#24384A" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif" dominant-baseline="central">2</text>
+      <text x="856" y="168" fill="#1E2A36" font-size="34" font-weight="600" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif">49</text>
+    </g>
+  </g>
+  <rect x="1.25" y="1.25" width="957.5" height="297.5" rx="27" fill="none" stroke="#E6D5C3" stroke-width="1.5"/>
+</svg>

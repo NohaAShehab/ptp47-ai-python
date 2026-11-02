@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-label="Four beats of a daemon heartbeat, then main walks out and the pulse stops.">
+  <defs>
+    <clipPath id="card"><rect width="960" height="300" rx="28"/></clipPath>
+    <filter id="shadow" x="-25%" y="-25%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#1E2A36" flood-opacity="0.14"/>
+    </filter>
+    <filter id="soft" x="-25%" y="-25%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1.2" flood-color="#1E2A36" flood-opacity="0.10"/>
+    </filter>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M1,1 L8,5 L1,9" fill="none" stroke="#8C7564" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="960" height="300" fill="#FBF7F1"/>
+    <rect width="88" height="300" fill="#24384A"/>
+    <rect x="88" width="4" height="300" fill="#E4B04A"/>
+    <circle cx="44" cy="138.0" r="30" fill="none" stroke="#E4B04A" stroke-width="1.25" opacity="0.85"/>
+    <text x="44" y="138.0" fill="#FFFBF6" font-size="28" font-weight="600" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif" dominant-baseline="central">07</text>
+    <text x="44" y="280" fill="#E4B04A" font-size="11" font-weight="600" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif" letter-spacing="1.6">DAY 06</text>
+    <circle cx="180" cy="80" r="90" fill="#F8E6E0" opacity="0.95"/><text x="120" y="44" fill="#8C7564" font-size="12" font-weight="600" font-style="normal" text-anchor="start" font-family="Inter, DejaVu Sans, sans-serif" letter-spacing="1.7">A HELPER THAT ENDS WITH MAIN</text><path d="M140,168 L190,168 L206,128 L222,206 L238,168 L290,168 L306,128 L322,206 L338,168 L390,168 L406,128 L422,206 L438,168 L490,168 L506,128 L522,206 L538,168 L600,168" fill="none" stroke="#1F9A88" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="168" y="124" fill="#1F9A88" font-size="12" font-weight="600" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif">beat</text><text x="318" y="124" fill="#1F9A88" font-size="12" font-weight="600" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif">beat</text><text x="468" y="124" fill="#1F9A88" font-size="12" font-weight="600" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif">beat</text><text x="560" y="124" fill="#1F9A88" font-size="12" font-weight="600" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif">beat</text><path d="M610,168 H700" stroke="#EFE4D6" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 8"/><g><rect x="736" y="96" width="86" height="150" rx="8" fill="#FFFFFF" stroke="#24384A" stroke-width="2"/><circle cx="804" cy="176" r="4" fill="#E4B04A"/></g><g transform="translate(690,246) scale(0.78)">
+      <ellipse cx="0" cy="4" rx="18" ry="5" fill="#1E2A36" opacity="0.10"/>
+      <rect x="-14" y="-46" width="28" height="44" rx="14" fill="#E36A55"/>
+      <circle cx="0" cy="-64" r="16.5" fill="#F3C7B4" stroke="#1E2A36" stroke-width="1.6"/>
+      <path d="M-15,-66 A16.5,16.5 0 0 1 15,-66 Q7,-84 0,-80 Q-7,-84 -15,-66 Z" fill="#24384A"/>
+      <circle cx="-5.5" cy="-63" r="1.7" fill="#1E2A36"/>
+      <circle cx="5.5" cy="-63" r="1.7" fill="#1E2A36"/>
+      <path d="M-5,-55 Q0,-51.5 5,-55" fill="none" stroke="#C47B6A" stroke-width="1.6" stroke-linecap="round"/>
+    </g><text x="779" y="268" fill="#8C7564" font-size="13" font-weight="500" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif">main exits</text>
+  </g>
+  <rect x="1.25" y="1.25" width="957.5" height="297.5" rx="27" fill="none" stroke="#E6D5C3" stroke-width="1.5"/>
+</svg>

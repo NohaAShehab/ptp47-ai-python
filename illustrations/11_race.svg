@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-label="Both cash machines pay 80. The shared account ends at -60.">
+  <defs>
+    <clipPath id="card"><rect width="960" height="300" rx="28"/></clipPath>
+    <filter id="shadow" x="-25%" y="-25%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#1E2A36" flood-opacity="0.14"/>
+    </filter>
+    <filter id="soft" x="-25%" y="-25%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1.2" flood-color="#1E2A36" flood-opacity="0.10"/>
+    </filter>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M1,1 L8,5 L1,9" fill="none" stroke="#8C7564" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="960" height="300" fill="#FBF7F1"/>
+    <rect width="88" height="300" fill="#24384A"/>
+    <rect x="88" width="4" height="300" fill="#E4B04A"/>
+    <circle cx="44" cy="138.0" r="30" fill="none" stroke="#E4B04A" stroke-width="1.25" opacity="0.85"/>
+    <text x="44" y="138.0" fill="#FFFBF6" font-size="28" font-weight="600" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif" dominant-baseline="central">11</text>
+    <text x="44" y="280" fill="#E4B04A" font-size="11" font-weight="600" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif" letter-spacing="1.6">DAY 06</text>
+    <text x="120" y="44" fill="#8C7564" font-size="12" font-weight="600" font-style="normal" text-anchor="start" font-family="Inter, DejaVu Sans, sans-serif" letter-spacing="1.7">BOTH MACHINES PASS THE CHECK</text><g>
+      <rect x="140" y="78" width="120" height="156" rx="18" fill="#24384A"/>
+      <rect x="154" y="94" width="92" height="48" rx="8" fill="#E7F6F3"/>
+      <text x="200" y="118" fill="#E36A55" font-size="16" font-weight="700" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif" dominant-baseline="central">pay 80</text>
+      <rect x="176" y="156" width="48" height="10" rx="3" fill="#E4B04A"/>
+      <rect x="168" y="178" width="64" height="36" rx="6" fill="#182838"/>
+    </g><g>
+      <rect x="300" y="78" width="120" height="156" rx="18" fill="#24384A"/>
+      <rect x="314" y="94" width="92" height="48" rx="8" fill="#E7F6F3"/>
+      <text x="360" y="118" fill="#E36A55" font-size="16" font-weight="700" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif" dominant-baseline="central">pay 80</text>
+      <rect x="336" y="156" width="48" height="10" rx="3" fill="#E4B04A"/>
+      <rect x="328" y="178" width="64" height="36" rx="6" fill="#182838"/>
+    </g><g>
+      <rect x="470" y="90" width="200" height="130" rx="26" fill="#24384A"/>
+      <text x="570.0" y="147.0" fill="#FFFBF6" font-size="42" font-weight="600" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif" dominant-baseline="central">-60</text>
+      <text x="570.0" y="194" fill="#E4B04A" font-size="12" font-weight="600" font-style="normal" text-anchor="middle" font-family="Inter, DejaVu Sans, sans-serif" letter-spacing="1.5">BALANCE</text>
+    </g><text x="700" y="130" fill="#24384A" font-size="18" font-weight="500" font-style="italic" text-anchor="start" font-family="EB Garamond, DejaVu Serif, serif">[80, 80]</text><text x="700" y="164" fill="#8C7564" font-size="13" font-weight="600" font-style="normal" text-anchor="start" font-family="Inter, DejaVu Sans, sans-serif" letter-spacing="1.2">paid out</text>
+  </g>
+  <rect x="1.25" y="1.25" width="957.5" height="297.5" rx="27" fill="none" stroke="#E6D5C3" stroke-width="1.5"/>
+</svg>
